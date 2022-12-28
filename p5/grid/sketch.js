@@ -17,19 +17,19 @@ function draw() {
 	h = random (15,50);
     while (x < width) {
 		
-			w = random(5,50);
-			
+			w = random(5,50);		
 			g = random(0,55)*5
 			rect(x, y,w, h );
 			fill(g);
 			x = x+ w;
-			if (x > width) {
-				
+			if (x > width) {				
 				x = 0;
 				y = y + h;
+				
 				if (y > height) {
 					return;
 				}
+				
 			}	
 	}	
 	 

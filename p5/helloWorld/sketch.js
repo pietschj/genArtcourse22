@@ -1,3 +1,4 @@
+
 /// <reference path="./node_modules/@types/p5/p5.global-mode.d.ts" />
 
 function setup() {

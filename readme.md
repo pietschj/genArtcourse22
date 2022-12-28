@@ -1,1 +1,1 @@
-This is the folder for the generative Design elective 19.
+This is the folder for the generative Design elective 19. Update 22
