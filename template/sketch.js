@@ -1,5 +1,4 @@
-/// <reference path="./p5.global-mode.d.ts" />
-
+/// <reference path="../global.d.ts" />
 
 var myVariable = 5; //declare your variables here.
 

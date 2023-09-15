@@ -1,7 +1,7 @@
-/// <reference path="./p5.global-mode.d.ts" />
+/// <reference path="../global.d.ts" />
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  	createCanvas(windowWidth, windowHeight);
 	noFill();
 	
 	strokeWeight(3);

@@ -1,4 +1,4 @@
-/// <reference path="./p5.global-mode.d.ts" />
+/// <reference path="../global.d.ts" />
 
 function setup() {
   //change the dimension of your screen

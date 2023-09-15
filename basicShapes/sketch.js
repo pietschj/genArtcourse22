@@ -1,4 +1,4 @@
-/// <reference path="./p5.global-mode.d.ts" />
+/// <reference path="../global.d.ts" />
 
 function setup() {
   //change the dimension of your screen
@@ -21,4 +21,5 @@ function draw() {
 	//draws a circle
 	//arguments: x,y,w,h
 	ellipse(200, 200, 100, 100);
+	triangle(200,200,50,50, 200,100);
 }
