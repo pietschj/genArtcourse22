@@ -1,0 +1,9 @@
+{
+    "name": "my-web-server",
+    "version": "1.0.0",
+    "description": "A simple web server for serving static files",
+    "keywords": ["web", "server", "static"],
+    "scripts": {
+          "start": "node server.js"
+        }
+}
